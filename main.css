@@ -1,0 +1,242 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v3_6 {
+  width: 100%;
+  height: 900px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v3_10 {
+  width: 100%;
+  height: 387px;
+  background: rgba(0,119,199,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v3_11 {
+  width: 586px;
+  height: 16px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 35px;
+  left: 551px;
+  overflow: hidden;
+}
+.v3_16 {
+  width: 313px;
+  height: 68px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 201px;
+  left: 544px;
+  overflow: hidden;
+}
+.v3_18 {
+  width: 255px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 174px;
+  left: 473px;
+  font-family: Roboto;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+.v3_19 {
+  width: 255px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 174px;
+  left: 444px;
+  font-family: Roboto;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+.v3_17 {
+  width: 313px;
+  height: 68px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 201px;
+  left: 370px;
+  overflow: hidden;
+}
+.v3_45 {
+  width: 128px;
+  height: 68px;
+  background: rgba(254,219,0,1);
+  opacity: 1;
+  position: absolute;
+  top: 201px;
+  left: 31px;
+  overflow: hidden;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.v3_22 {
+  width: 195px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 301px;
+  left: 544px;
+  font-size: 18px;
+  opacity: 1;
+  text-align: center;
+}
+.v3_36 {
+  width: 250px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 301px;
+  left: 303px;
+  font-size: 18px;
+  opacity: 1;
+  text-align: center;
+}
+.v3_44 {
+  width: 382px;
+  height: 314px;
+  background: url("../images/v3_44.png");
+  opacity: 1;
+  position: absolute;
+  top: 29px;
+  left: 49px;
+  border-radius: 50%;
+}
+.v3_46 {
+  width: 70px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 222px;
+  left: 2px;
+  font-family: Roboto;
+  font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  text-align: center;
+}
+.v3_47 {
+  width: 100%;
+  height: 135px;
+  background: rgba(0,0,0,1);
+  opacity: 1;
+  position: absolute;
+  top: 387px;
+  left: 0px;
+  overflow: hidden;
+}
+.v3_53 {
+  width: 173px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 439px;
+  left: 313px;
+  font-family: Roboto;
+  font-weight: Bold;
+  font-size: 16px;
+  opacity: 1;
+  text-align: center;
+}
+.v3_87 {
+  width: 173px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 439px;
+  left: 590px;
+  font-family: Roboto;
+  font-weight: Bold;
+  font-size: 16px;
+  opacity: 1;
+  text-align: center;
+}
+.v3_89 {
+  width: 173px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 439px;
+  left: 178px;
+  font-family: Roboto;
+  font-weight: Bold;
+  font-size: 16px;
+  opacity: 1;
+  text-align: center;
+}
+.v3_52 {
+  width: 195px;
+  height: 94px;
+  background: url("../images/v3_52.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 399px;
+  left: 89px;
+  overflow: hidden;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.v3_86 {
+  width: 113px;
+  height: 107px;
+  background: url("../images/v3_86.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 399px;
+  left: 588px;
+  overflow: hidden;
+}
+.v3_88 {
+  width: 127px;
+  height: 218px;
+  background: url("../images/v3_88.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 364px;
+  left: 342px;
+  overflow: hidden;
+}
+.v3_15 {
+  width: 696px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 71px;
+  left: 495px;
+  font-family: Roboto;
+  font-weight: Regular;
+  font-size: 48px;
+  opacity: 1;
+  text-align: center;
+}
+
